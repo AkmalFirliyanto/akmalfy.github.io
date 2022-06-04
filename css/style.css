@@ -1,0 +1,26 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-image: url(../img/hero.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: #000000;
+    text-shadow: 1px 1px 10px rgba(0, 0, 0, 5);
+}
+
+section {
+    padding-top: 6rem;
+}
+
+#about {
+    color: #d3d3d3;
+    background-color: #3b3b3b;
+}
+
+#contact {
+    color: #d3d3d3;
+    background-color: #3b3b3b;
+}
+
+#project {
+    background-color: #d3d3d3;
+}
