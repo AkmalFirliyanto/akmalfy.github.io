@@ -3,8 +3,8 @@
     background-image: url(../img/hero.jpg);
     background-attachment: fixed;
     background-size: cover;
-    color: #000000;
-    text-shadow: 1px 1px 10px rgba(0, 0, 0, 5);
+    background-position: 0% 100%;
+    text-shadow: 1px 1px 20px#d3d3d3;
 }
 
 section {
