@@ -25,3 +25,11 @@
     #project {
         background-color: #d3d3d3;
     }
+    
+    div .card {
+        transition: 0.5s;
+    }
+    
+    div .card:hover {
+        transform: scale(1.1);
+    }
