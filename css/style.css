@@ -1,26 +1,27 @@
-.jumbotron {
-    padding-top: 6rem;
-    background-image: url(../img/hero.jpg);
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: 0% 100%;
-    text-shadow: 1px 1px 20px#d3d3d3;
-}
-
-section {
-    padding-top: 6rem;
-}
-
-#about {
-    color: #d3d3d3;
-    background-color: #3b3b3b;
-}
-
-#contact {
-    color: #d3d3d3;
-    background-color: #3b3b3b;
-}
-
-#project {
-    background-color: #d3d3d3;
-}
+    .jumbotron {
+        padding-top: 6rem;
+        background-image: url(../img/hero.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: 0% 100%;
+        text-shadow: 1px 1px 4px #d3d3d3, -1px -1px 4px #d3d3d3;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    section {
+        padding-top: 6rem;
+    }
+    
+    #about {
+        color: #d3d3d3;
+        background-color: #3b3b3b;
+    }
+    
+    #contact {
+        color: #d3d3d3;
+        background-color: #3b3b3b;
+    }
+    
+    #project {
+        background-color: #d3d3d3;
+    }
